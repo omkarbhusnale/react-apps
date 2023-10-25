@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Axios API Use
+
+- Here we use Axios API from Node to add flexibility to fetch and set data in local Json file.
+
+## To Create Local Json Server you need to run following command at start in New Terminal and then Start the project
+
+### `npx json-server -p 3500 -w data/db.json`
+
 ## Available Scripts
 
 In the project directory, you can run:
