@@ -25,16 +25,10 @@
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
     },
     {
-      "id": 5,
-      "title": "New Test Post ",
-      "datetime": "October 25, 2023 12:24:59 PM",
-      "body": "This is Test Post For Delete."
-    },
-    {
-      "id": 6,
-      "title": "New Second Test Post ",
-      "datetime": "October 25, 2023 2:08:56 PM",
-      "body": "This is Test Post For Delete.\nHere we modified the Title of the Post..."
+      "id": 7,
+      "title": "New test Post 11",
+      "datetime": "October 26, 2023 12:37:44 PM",
+      "body": "This is body of Test Post 11"
     }
   ]
 }
